@@ -1,0 +1,4 @@
+kitty
+slock
+wmname 
+ttf-font-awesome
