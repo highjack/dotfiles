@@ -2,3 +2,4 @@ kitty
 slock
 wmname 
 ttf-font-awesome
+python-pywal
