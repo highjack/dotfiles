@@ -1,5 +1,5 @@
 wmname LG3D
 nitrogen --restore
-wal -r 
+setxkbmap gb
 picom
 
