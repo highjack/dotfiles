@@ -3,3 +3,4 @@ slock
 wmname 
 ttf-font-awesome
 python-pywal
+ncspot
